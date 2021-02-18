@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="h2-1.4.197">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/h2-1.4.197.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.23.jar!/" />
+      <root url="jar://$PROJECT_DIR$/postgresql-42.2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/protobuf-java-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/sqlite-jdbc-3.8.11.2.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/sqlite-jdbc-3.8.11.2.jar!/" />
+      <root url="file://$PROJECT_DIR$/src" />
+      <root url="file://$PROJECT_DIR$" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" type="SOURCES" />
+  </library>
+</component>
